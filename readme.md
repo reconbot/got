@@ -19,6 +19,8 @@ Created because [`request`](https://github.com/request/request) is bloated *(sev
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/got.svg)](https://greenkeeper.io/)
+
 **WARNING: Node.js 4 or higher is required for got@6 and above.** For older Node.js versions use [got@5](https://github.com/sindresorhus/got/tree/v5.x).
 
 ```
