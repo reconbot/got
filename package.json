@@ -55,7 +55,7 @@
     "node-status-codes": "^2.0.0",
     "timed-out": "^3.0.0",
     "unzip-response": "^2.0.1",
-    "url-parse-lax": "^1.0.0"
+    "url-parse-lax": "^3.0.0"
   },
   "devDependencies": {
     "ava": "^0.16.0",
